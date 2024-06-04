@@ -9,7 +9,7 @@ class QuestionnaireApp(ctk.CTk):
         self.geometry("770x500")
         self.resizable(False, False)  # Evita que o usuário redimensione a janela
 
-        self.image_paths = [r"C:\Users\Psyder\Documents\teste\1.png", r"C:\Users\Psyder\Documents\teste\2.png", r"C:\Users\Psyder\Documents\teste\3.png"]
+        self.image_paths = [r"C:\Users\Psyder\Documents\Workspace\1.png", r"C:\Users\Psyder\Workspace\teste\2.png", r"C:\Users\Psyder\Workspace\teste\3.png"]
         self.image_index = 0
 
         self.frame = None

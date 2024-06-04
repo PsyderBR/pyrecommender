@@ -1,4 +1,3 @@
-Claro, aqui está o README preenchido:
 
 ```
 # Calculadora de IMC
